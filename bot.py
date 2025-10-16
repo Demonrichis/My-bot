@@ -13,4 +13,3 @@ async def on_member_join(member):
             "📢 Stay updated: <#1382774081522237540>\n"
             "🏅 May the strongest rise and claim their glory!"
         )
-bot.run('MTQyNDQzOTcwOTk0NTMwMzE2Nw.GMN8S4.EmIy0UsF461cTs2KTjlOMdrC0WSIYUQHyFPUJM')
